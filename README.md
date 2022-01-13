@@ -13,7 +13,8 @@ Connect MySql with PHP to handle the administration of MySql over the web by fol
   - Setup the database by loading the sql files found [here](/SQL Files/).
 
 ## Screenshots
-Attached below are few of the screenshots of the project.
+Attached below are few of the screenshots of the project.  
+
 ![31059637_10211502199861658_3124586530291580928_n](https://user-images.githubusercontent.com/18086827/149392328-51b83700-396e-4b71-b6cf-e34bfc39d432.png)
 ![31073204_10211502197061588_5292107287354146816_n](https://user-images.githubusercontent.com/18086827/149392335-169ca4fe-a0ce-4e02-a8ab-3bcba0f41030.png)
 ![32974774_10211659854362922_8971690625506213888_n](https://user-images.githubusercontent.com/18086827/149392341-e734bb6c-42e7-4268-b997-0b3d7433df96.png)
